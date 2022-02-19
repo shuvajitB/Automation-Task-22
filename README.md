@@ -1,5 +1,6 @@
 # Automation-Task-22
-Name: Shuvajit Barua 
-
-Task: Automation Task-22 by Brain Station-23
+I am Shuvajit Barua. I have applied for "Associate Automation Engineer" in
+ Brain Station-23. This is the repo of my doing of the task assigned.
+ 
+ Have a great day!
 
